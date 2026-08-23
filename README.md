@@ -1,4 +1,5 @@
-
+<img src="https://github.com/mr-morningstar11/assest/blob/main/header.svg" width="100%" alt="Blueprint Title Block">
+<img src="https://github.com/mr-morningstar11/assest/blob/main/gh-stats.svg" width="100%" alt="Blueprint Parts List">
 ## 🚀 About Me
 
 - 🎓 B.Tech CSE — Information Security @ VIT Vellore
@@ -41,59 +42,9 @@
 ![Scikit Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Cybersecurity](https://img.shields.io/badge/Cybersecurity-000000?style=for-the-badge&logo=kalilinux&logoColor=white)
 
----
 
-## 🔥 Featured Projects
 
-### 🎟️ Ticket Booking System
-
-Full-stack real-time movie & concert ticket booking platform.
-
-**Features:**
-- 🎬 Movies & concerts
-- 🎫 Interactive 2D cinema & stadium seat maps
-- 🔒 Real-time seat locking
-- ⏱️ Automatic seat-hold expiry
-- 📧 Email ticket confirmation
-- 📱 QR-code tickets
-- 📝 Waitlist management
-- 🏙️ Delhi NCR & multiple Indian cities
-- 🎥 2D / 3D / IMAX / 4DX
-- 🌐 Multiple movie languages
-
-**Tech:** Next.js · React · TypeScript · Tailwind CSS · SQLite
-
----
-
-### 🛡️ Smart-IDS
-
-Machine-learning based Intrusion Detection System capable of classifying network traffic as normal or malicious.
-
-**Tech:** Python · Flask · Scikit-learn · TensorFlow · Machine Learning
-
----
-
-### 🩺 MediSeal
-
-Zero-Trust Medical Image Authentication & Covert Patient Audit Trail System combining tamper detection, authentication and secure auditing.
-
-**Tech:** Python · Cryptography · Image Processing · Security
-
----
-
-### 💳 Payment Interface
-
-Modern responsive payment checkout interface with multiple payment methods and responsive UI.
-
-**Tech:** HTML · CSS · JavaScript
-
----
-
-## 🌐 Connect With Me
-
-[![GitHub](https://img.shields.io/badge/GitHub-mr--morningstar11-181717?style=for-the-badge&logo=github)](https://github.com/mr-morningstar11)
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sanskar%20Pandey-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/)
+<img src="https://github.com/mr-morningstar11/assest/blob/main/footer.svg" width="100%" alt="Blueprint Approvals">
 
 ---
 
