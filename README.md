@@ -1,20 +1,3 @@
-<img src="https://raw.githubusercontent.com/https://github.com/mr-morningstar11/https://github.com/mr-morningstar11/main/header.svg" width="100%" alt="Blueprint Title Block">
-
-<br/>
-
-<img src="https://raw.githubusercontent.com/https://github.com/mr-morningstar11/https://github.com/mr-morningstar11/main/about.svg" width="100%" alt="Blueprint Notes & Properties">
-
-<br/>
-
-<img src="https://raw.githubusercontent.com/https://github.com/mr-morningstar11/https://github.com/mr-morningstar11/main/skills.svg" width="100%" alt="Blueprint Parts List">
-
-<br/>
-
-<img src="https://ryme.md/api/render/blueprint-github-stats?u=https%3A%2F%2Fgithub.com%2Fmr-morningstar11&bg=0e3a6e&fg=f1ece1&accent=ffffff&muted=7d9fc4&dur=30" width="100%" alt="Blueprint Activity Sheet">
-
-<br/>
-
-<img src="https://raw.githubusercontent.com/https://github.com/mr-morningstar11/https://github.com/mr-morningstar11/main/footer.svg" width="100%" alt="Blueprint Approvals">
 
 ## 🚀 About Me
 
